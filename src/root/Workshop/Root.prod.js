@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 
-import MiniGames from '../../components/MiniGames'
+import MiniGames from '../../components/MiniGames';
 import AboutUs from '../../containers/AboutUs';
 import Article from '../../containers/Article';
 import EditArticle from '../../containers/EditArticle';
